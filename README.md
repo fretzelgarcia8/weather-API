@@ -1,4 +1,4 @@
-# 🌦 Interactive Glassmorphism Weather App
+# 🌦 Weather App
 
 A modern, sleek Weather Application featuring a **Glassmorphism UI** and dynamic environmental effects. This app provides real-time weather data with a unique twist: the entire background theme and background music toggle adapt to create an immersive user experience.
 
