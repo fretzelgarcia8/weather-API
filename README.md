@@ -28,7 +28,7 @@ You only need a modern web browser and a local folder containing the necessary i
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/interactive-weather-app.git
+git clone https://github.com/fretzelgarcia8/weather-API.git
 
 ```
 
