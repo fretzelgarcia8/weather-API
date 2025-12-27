@@ -45,6 +45,7 @@ Open `index.html` in your browser.
 
 ---
 ## DEMO
+[weatherAPI.webm](https://github.com/user-attachments/assets/69c8c47b-9570-4e21-b236-52fd0c72fe3c)
 
 ## 🛠️ Built With
 
