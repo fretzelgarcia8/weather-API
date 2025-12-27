@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
+
+</head>
+<audio id="bgMusic" autoplay loop>
+  <source src="images/Journey of Life.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<button id="musicBtn" class="refresh-btn" style="right:15px; left:auto;">🔊</button>
+
+
+<body>
+      <p id="loading" class="hidden">Loading...</p>
+
+<button id="refreshBtn" class="refresh-btn">⟳</button>
+
+  <header>
+    <h1>🌦 Weather App</h1>
+    <div class="search-container">
+      <input type="text" id="cityInput" placeholder="Enter city name" />
+      <button id="searchBtn">Search</button>
+    </div>
+  </header>
+
+  <main>
+    
+    <p id="error"></p>
+    <div id="result"></div>
+  </main>
+
+  <footer>
+    <p>Powered by OpenWeather API</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
