@@ -1,8 +1,8 @@
-# 🌦 Weather App
+#  Weather App
 
 A modern, sleek Weather Application featuring a **Glassmorphism UI** and dynamic environmental effects. This app provides real-time weather data with a unique twist: the entire background theme and background music toggle adapt to create an immersive user experience.
 
-## ✨ Features
+##  Features
 
 * **Real-Time Weather Data**: Fetches live temperature, humidity, and weather conditions using the OpenWeather API.
 * **Dynamic Backgrounds**: The background automatically changes to a matching GIF (Sunny, Rainy, Cloudy, etc.) based on the current weather status of the searched city.
@@ -18,7 +18,7 @@ A modern, sleek Weather Application featuring a **Glassmorphism UI** and dynamic
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ Open `index.html` in your browser.
 ## DEMO
 [weatherAPI.webm](https://github.com/user-attachments/assets/69c8c47b-9570-4e21-b236-52fd0c72fe3c)
 
-## 🛠️ Built With
+##  Built With
 
 * **HTML5**: Semantic structure and audio integration.
 * **CSS3**: Custom properties, Glassmorphism effects, and CSS Keyframe animations.
@@ -56,7 +56,7 @@ Open `index.html` in your browser.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 * `index.html`: The main structure featuring the search interface and audio controls.
 * `style.css`: The styling engine, handling the glass effect, layout, and mobile responsiveness.
@@ -64,7 +64,7 @@ Open `index.html` in your browser.
 
 ---
 
-## 📝 License & Use
+##  License & Use
 
 This project is **not licensed** and is provided for **educational purposes only**. It was developed as a study in integrating third-party APIs with interactive CSS styling.
 
